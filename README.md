@@ -1,6 +1,6 @@
 # tfidf-cosine-text-recommendation
 
-# 预料说明
+# 语料说明
 
 搜狗语料库：http://www.sogou.com/labs/resource/cs.php
 
